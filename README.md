@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AWS and Devops Project**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **gitOps , Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SushantOps](https://github.com/SushantOps)
 
