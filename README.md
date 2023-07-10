@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **go , Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SushantOps/My_Projects]
+- 👨‍💻 All of my projects are available at https://github.com/SushantOps/My_Projects
 
 - 📝 I regularly write articles on [https://medium.com/@sushantkapare1717](https://medium.com/@sushantkapare1717)
 
