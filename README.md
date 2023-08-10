@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sushantkapare1717](https://medium.com/@sushantkapare1717)
 
-- 💬 Ask me about **AWS,Devops,openshift**
+- 💬 Ask me about anything  **AWS,Devops,open-source**
 
 - 📫 How to reach me **sushantkapare1717@gmail.com**
 
