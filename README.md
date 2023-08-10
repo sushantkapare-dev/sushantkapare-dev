@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **AWS and Devops Project**
+- 🔭 I’m currently working on **AWS and Devops Projects**
 
-- 🌱 I’m currently learning **go , Python**
+- 🌱 I’m currently learnig ** Python and Go lang**
 
 - 👨‍💻 All of my projects are available at https://github.com/SushantOps/My_Projects
 
