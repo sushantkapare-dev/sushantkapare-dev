@@ -1,4 +1,4 @@
-![image](https://github.com/SushantOps/SushantOps/assets/109059766/92421410-381e-47d3-bb73-eb12184d30d2)
+![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
 
 <h1 align="center">Hi 👋, I'm Sushant Kapare</h1>
 <h3 align="center">A passionate Cloud Devops Engineer from India</h3>
