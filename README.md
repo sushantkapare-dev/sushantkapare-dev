@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AWS and Devops Projects**
 
-- 🌱 I’m currently learnig **Python and Go lang**a
+- 🌱 I’m currently learnig **Python and Go lang**
 
 - 👨‍💻 All of my projects are available at https://github.com/sushantkapare-dev/My_Projects
 
